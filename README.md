@@ -17,5 +17,5 @@ This is my personal frontend developer portfolio built using React and Tailwind 
 - Contact section
 
 ## 📬 Contact
-LinkedIn: (Ungal LinkedIn link)
-Email: (Ungal mail id)
+LinkedIn: https://www.linkedin.com/in/kowsalya-j-2619b2278/
+Email: jkowsalya2005@gmail.com
