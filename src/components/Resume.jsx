@@ -33,13 +33,13 @@ export default function Resume() {
             <h2 className="text-3xl font-bold text-black text-center md:text-left">
               Internship Experience
             </h2>
-            <a 
-              href="/resume.pdf" 
-              download 
-              className="bg-blue-600 hover:bg-blue-700 text-white font-bold px-8 py-3 md:py-2 rounded-full text-xs transition-all shadow-md active:scale-95"
-            >
-              DOWNLOAD CV
-            </a>
+           <a 
+  href="/Kowsalya Resume.pdf" 
+  download="Kowsalya_Resume.pdf"
+  className="bg-blue-600 hover:bg-blue-700 text-white font-bold px-8 py-3 md:py-2 rounded-full text-xs transition-all shadow-md active:scale-95"
+>
+  DOWNLOAD CV
+</a>
           </div>
         </div>
 
